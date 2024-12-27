@@ -1,2 +1,2 @@
 # demo1
-learning git
+this is my first git demo repository
